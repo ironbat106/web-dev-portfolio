@@ -1,6 +1,6 @@
 # Web Developer Portfolio
 
-This is a personal portfolio project showcasing my skills and experience as a web developer. It includes sections like About Me, Skills, Resume, and Contact. The project is built using HTML, CSS, and JavaScript.
+This is a personal portfolio project showcasing me starting as a web developer. It includes sections like About Me, Skills, Resume, and Contact. The project is built using HTML, CSS, and JavaScript.
 
 ## Features
 - Responsive layout
